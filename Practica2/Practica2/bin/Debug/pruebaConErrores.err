@@ -1,0 +1,2 @@
+Error de sintaxis: mismatched input ' ' expecting {CONSTHEX, CONSTCAD, NUMERO2, ID} line:  16 position: 12
+Error de sintaxis: no viable alternative at input 'TABLE2 RESW ' line:  17 position: 7

@@ -1,0 +1,18 @@
+Simbolo	Dirección
+LOOP	000F
+COUNT	0019
+TABLE	002D
+TABLE2	004B
+Tamaño del programa:
+0052H
+Lista de registros
+Registro	Numero		Valor
+A		0		FFFF
+X		1		FFFF
+L		2		FFFF
+B		3		FFFF
+S		4		FFFF
+T		5		FFFF
+F		6		FFFF
+CP		7		0052
+SW		8		FFFF

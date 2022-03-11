@@ -1,0 +1,17 @@
+EJER1 START 0		
+      LDX #5		
+ETIQ  FIX 		
+      +LDB #TABLE2	
+      STA @COUNT	
+      CLEAR A		
+      BASE TABLE2	
+      ADDR X, A		
+LOOP  ADD 9, X		
+      +STA TOTAL	
+      RSUB 		
+COUNT  RESB p		
+      SHIFTL X, 2	
+TABLE  RESW 10		
+TABLE2  BYTE C'test'    
+      WORD 16		
+END FIRST		

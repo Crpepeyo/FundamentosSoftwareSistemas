@@ -1,0 +1,15 @@
+Simbolo	Dirección
+COUNT 	0009
+Tamaño del programa:
+0009H
+Lista de registros
+Registro	Numero		Valor
+A		0		FFFF
+X		1		FFFF
+L		2		FFFF
+B		3		FFFF
+S		4		FFFF
+T		5		FFFF
+F		6		FFFF
+CP		7		0009
+SW		8		FFFF

@@ -1,0 +1,12 @@
+Error de sintaxis: no viable alternative at input 'EJER1 START ' line:  1 position: 6
+Error de sintaxis: no viable alternative at input 'LDX\n' line:  2 position: 4
+Error de sintaxis: no viable alternative at input 'ETIQ  \tFIX ' line:  3 position: 7
+Error de sintaxis: no viable alternative at input 'LDB\t' line:  4 position: 11
+Error de sintaxis: no viable alternative at input 'STA\t' line:  5 position: 4
+Error de sintaxis: extraneous input '\n' expecting {EBSILON, CONSTHEX, CONSTCAD, NUMERO2, ID} line:  7 position: 11
+Error de sintaxis: missing '
+' at '\t' line:  8 position: 12
+Error de sintaxis: mismatched input 'STA ' expecting CODOPF3 line:  11 position: 8
+Error de sintaxis: extraneous input '\n' expecting {EBSILON, CONSTHEX, CONSTCAD, NUMERO2, ID} line:  13 position: 12
+Error de sintaxis: missing '
+' at '\t' line:  14 position: 14

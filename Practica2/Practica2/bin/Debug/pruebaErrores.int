@@ -1,0 +1,14 @@
+CP	Etiqueta	CodOp	Argumento
+0000	EJER1 START 0
+0000**		LDX
+0000**	ETIQ  	FIX 
+0000	      	+LDB	#TABLE2
+0003		STA	@COUNT
+0006*	      	CLEAR 	A
+0006	      	RESB
+0009**	      	BASE 	TABLE2
+0009	      	ADDR 	X, A
+0009*	LOOP  	ADD 	9, X
+0009**	      	+STA 	TOTAL
+0009	      	RSUB 
+0009	COUNT  	WORD

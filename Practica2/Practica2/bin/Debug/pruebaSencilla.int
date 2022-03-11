@@ -1,0 +1,3 @@
+CP	Etiqueta	CodOp	Argumento
+0000	START 0
+0000*	COUNT	RESB	12H

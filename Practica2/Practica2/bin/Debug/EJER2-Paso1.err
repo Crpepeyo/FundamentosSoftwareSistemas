@@ -1,0 +1,7 @@
+Error de sintaxis: extraneous input 'RAIZ' expecting '
+' line:  11 position: 9
+Error de lexer: token recognition error at: ''' line:  27 position: 12
+Error de lexer: token recognition error at: ''' line:  27 position: 16
+Error de sintaxis: extraneous input '234' expecting '
+' line:  27 position: 13
+Error de sintaxis: no viable alternative at input '\tJS' line:  28 position: 1

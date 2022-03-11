@@ -1,0 +1,6 @@
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeLexer.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeParser.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeListener.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeBaseListener.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeVisitor.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeBaseVisitor.cs

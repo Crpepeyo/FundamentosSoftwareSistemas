@@ -1,0 +1,17 @@
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\bin\Debug\Antlr4.Runtime.dll
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\bin\Debug\Antlr4.Runtime.xml
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeLexer.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeParser.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeListener.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeBaseListener.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeVisitor.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\sicxeBaseVisitor.cs
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\Practica2.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\Practica2.csproj.CopyComplete
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\crpep\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Laboratorio\practica 3 nohemi\Practica2\Practica2\obj\Debug\Practica2.csprojAssemblyReference.cache

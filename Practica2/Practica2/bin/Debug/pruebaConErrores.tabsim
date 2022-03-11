@@ -1,0 +1,20 @@
+Simbolo	Dirección
+FIRST 	0000
+XD 	000A
+LOOP 	000A
+COUNT 	0023
+TABLE 	0026
+TOTAL 	0026
+Tamaño del programa:
+1796H
+Lista de registros
+Registro	Numero		Valor
+A		0		FFFF
+X		1		FFFF
+L		2		FFFF
+B		3		FFFF
+S		4		FFFF
+T		5		FFFF
+F		6		FFFF
+CP		7		1796
+SW		8		FFFF
